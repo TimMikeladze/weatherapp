@@ -1,0 +1,32 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "weatherapp ========== The app is intended to be a [sandbox](http://en.wikipedia.org/wiki/Sandbox_%28software_development%29) promoting group member *particiation* in best practices in state-of-the-art project design, coding and code project management for the [Tacoma-JS meetup](http://www.meetup.com/Tacoma-JS/).  It is expected that members will suggest and implement features as part of personal growth in their topic interest area.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tacoma-JS/weatherapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tacoma-JS/weatherapp/issues"
+  },
+  "homepage": "https://github.com/Tacoma-JS/weatherapp#readme",
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "eslint-plugin-react": "^4.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "round10": "^1.0.3"
+  }
+}
