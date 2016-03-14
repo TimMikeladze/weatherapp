@@ -26,7 +26,6 @@
     "eslint-plugin-react": "^4.2.1"
   },
   "dependencies": {
-    "bootstrap": "^3.3.6",
     "round10": "^1.0.3"
   }
 }
